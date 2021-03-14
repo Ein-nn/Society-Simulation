@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/mysql-connector-java-5.1.39-bin.jar lib/jfreechart-1.0.19.jar lib/jcommon-1.0.23.jar
+Main-Class: per.maingame.IndexBox
+
